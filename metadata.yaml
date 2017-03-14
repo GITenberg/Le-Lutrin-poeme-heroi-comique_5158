@@ -1,5 +1,8 @@
 _repo: Le-Lutrin-poeme-heroi-comique_5158
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Boileau Despréaux, Nicolas
@@ -15,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Nicolas_Boileau-Despr%C3%A9aux
     - http://fr.wikipedia.org/wiki/Nicolas_Boileau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5158#Le-Lutrin-poeme-heroi-comique
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
