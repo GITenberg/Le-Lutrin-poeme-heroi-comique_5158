@@ -1,5 +1,5 @@
 _repo: Le-Lutrin-poeme-heroi-comique_5158
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'French poetry -- 17th century'
 - !lcc 'PQ'
+- GITenberg
 title: Le Lutrin, poème héroï-comique
 url: http://www.gutenberg.org/ebooks/5158
